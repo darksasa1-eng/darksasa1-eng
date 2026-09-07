@@ -49,7 +49,8 @@ Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://www.sasa-dev-api.xyz">Sasa Dev API</a></h3>
+            <a href="https://www.sasa-dev-api.xyz"><img src="https://image.thum.io/get/width/600/crop/380/https://www.sasa-dev-api.xyz" width="100%" alt="Sasa Dev API live preview" /></a>
+<h3 align="center"><a href="https://www.sasa-dev-api.xyz">Sasa Dev API</a></h3>
       <p align="center">Free REST API platform — downloaders, AI endpoints, dev utilities.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-API-0A0A0C?style=flat-square" alt="Node.js" />
@@ -58,7 +59,8 @@ Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://www.sasa-ai.xyz">Sasa AI</a></h3>
+            <a href="https://www.sasa-ai.xyz"><img src="https://image.thum.io/get/width/600/crop/380/https://www.sasa-ai.xyz" width="100%" alt="Sasa AI live preview" /></a>
+<h3 align="center"><a href="https://www.sasa-ai.xyz">Sasa AI</a></h3>
       <p align="center">AI chat web app with history and a fast backend API.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/AI-Chat_App-0A0A0C?style=flat-square" alt="AI" />
@@ -69,7 +71,8 @@ Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://www.sasatech.online">SasaTech</a></h3>
+            <a href="https://www.sasatech.online"><img src="https://image.thum.io/get/width/600/crop/380/https://www.sasatech.online" width="100%" alt="SasaTech live preview" /></a>
+<h3 align="center"><a href="https://www.sasatech.online">SasaTech</a></h3>
       <p align="center">Developer tools platform — temp mail, downloaders, utilities.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Dev-Tools-0A0A0C?style=flat-square" alt="Tools" />
@@ -78,7 +81,8 @@ Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://scrapyxiter.store">Scrapyxiter</a></h3>
+            <a href="https://scrapyxiter.store"><img src="https://image.thum.io/get/width/600/crop/380/https://scrapyxiter.store" width="100%" alt="Scrapyxiter live preview" /></a>
+<h3 align="center"><a href="https://scrapyxiter.store">Scrapyxiter</a></h3>
       <p align="center">Data extraction and web automation toolkit.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-Automation-0A0A0C?style=flat-square" alt="Python" />
@@ -89,7 +93,8 @@ Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://suddaxcheatzx.store">Suddax Cheatzx</a></h3>
+            <a href="https://suddaxcheatzx.store"><img src="https://image.thum.io/get/width/600/crop/380/https://suddaxcheatzx.store" width="100%" alt="Suddax Cheatzx live preview" /></a>
+<h3 align="center"><a href="https://suddaxcheatzx.store">Suddax Cheatzx</a></h3>
       <p align="center">Gaming tools and resources store.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Gaming-Store-0A0A0C?style=flat-square" alt="Gaming" />
@@ -98,7 +103,8 @@ Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://mail.sasatech.online">SasaTech Mail</a></h3>
+            <a href="https://mail.sasatech.online"><img src="https://image.thum.io/get/width/600/crop/380/https://mail.sasatech.online" width="100%" alt="SasaTech Mail live preview" /></a>
+<h3 align="center"><a href="https://mail.sasatech.online">SasaTech Mail</a></h3>
       <p align="center">Disposable email — temp inbox in one click, no signup.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Privacy-Temp_Mail-0A0A0C?style=flat-square" alt="Privacy" />
@@ -114,7 +120,40 @@ Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
 <img src="assets/header-stack.png" width="100%" alt="Tech Stack" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,html,css,nodejs,react,next,express,mongodb,mysql,postgres,firebase,git,docker,linux,figma&theme=dark" alt="Tech stack" />
+<p align="center">
+  <b>Languages</b><br />
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,ts,php,go,bash,html,css&theme=dark" alt="Languages" />
+</p>
+
+<p align="center">
+  <b>Frontend</b><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,redux,vite&theme=dark" alt="Frontend" />
+</p>
+
+<p align="center">
+  <b>Backend</b><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,laravel,graphql&theme=dark" alt="Backend" />
+</p>
+
+<p align="center">
+  <b>Databases</b><br />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase&theme=dark" alt="Databases" />
+</p>
+
+<p align="center">
+  <b>Cloud & DevOps</b><br />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,cloudflare,vercel,netlify,aws&theme=dark" alt="Cloud & DevOps" />
+</p>
+
+<p align="center">
+  <b>Systems & Security</b><br />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,raspberrypi,arduino&theme=dark" alt="Systems & Security" />
+</p>
+
+<p align="center">
+  <b>Tools & Design</b><br />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,selenium,regex,md,figma,ps,ai,discord,androidstudio,wordpress&theme=dark" alt="Tools & Design" />
+</p>
 </div>
 
 <img src="assets/divider.gif" width="100%" alt="divider" />
