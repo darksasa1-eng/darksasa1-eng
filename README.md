@@ -21,11 +21,11 @@
 
 </div>
 
----
+<img src="assets/divider.gif" width="100%" alt="divider" />
+
+<img src="assets/header-about.png" width="100%" alt="About Me" />
 
 <img align="right" width="270" src="assets/profile.jpg" alt="Sasa Dev" />
-
-### About Me
 
 Hi, I'm **Sasa Dev** (`darksasa1-eng`) — a self-taught **Full Stack Developer** from **Sri Lanka**, working with clients worldwide. Founder of **SasaTech**.
 
@@ -38,34 +38,97 @@ Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
 
 <br clear="right" />
 
----
+<div align="center">
+  <img src="assets/terminal.gif" width="100%" alt="Terminal animation — whoami" />
+</div>
 
-### Live Projects
+<img src="assets/divider.gif" width="100%" alt="divider" />
 
-| Project | What it is | Link |
-|---|---|---|
-| **[Sasa Dev API](https://www.sasa-dev-api.xyz)** | Free REST API platform — downloaders, AI endpoints, dev utilities | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sasa-dev-api.xyz) |
-| **[Sasa AI](https://www.sasa-ai.xyz)** | AI chat web app with history and a fast backend API | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sasa-ai.xyz) |
-| **[SasaTech](https://www.sasatech.online)** | Developer tools platform — temp mail, downloaders, utilities | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sasatech.online) |
-| **[Scrapyxiter](https://scrapyxiter.store)** | Data extraction and web automation toolkit | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://scrapyxiter.store) |
-| **[Suddax Cheatzx](https://suddaxcheatzx.store)** | Gaming tools and resources store | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://suddaxcheatzx.store) |
-| **[SasaTech Mail](https://mail.sasatech.online)** | Disposable email — temp inbox in one click, no signup | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://mail.sasatech.online) |
+<img src="assets/header-projects.png" width="100%" alt="Live Projects" />
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://www.sasa-dev-api.xyz">Sasa Dev API</a></h3>
+      <p align="center">Free REST API platform — downloaders, AI endpoints, dev utilities.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-API-0A0A0C?style=flat-square" alt="Node.js" />
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.sasa-dev-api.xyz&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
+        <a href="https://www.sasa-dev-api.xyz"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://www.sasa-ai.xyz">Sasa AI</a></h3>
+      <p align="center">AI chat web app with history and a fast backend API.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Chat_App-0A0A0C?style=flat-square" alt="AI" />
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.sasa-ai.xyz&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
+        <a href="https://www.sasa-ai.xyz"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://www.sasatech.online">SasaTech</a></h3>
+      <p align="center">Developer tools platform — temp mail, downloaders, utilities.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Dev-Tools-0A0A0C?style=flat-square" alt="Tools" />
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.sasatech.online&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
+        <a href="https://www.sasatech.online"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://scrapyxiter.store">Scrapyxiter</a></h3>
+      <p align="center">Data extraction and web automation toolkit.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Automation-0A0A0C?style=flat-square" alt="Python" />
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fscrapyxiter.store&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
+        <a href="https://scrapyxiter.store"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://suddaxcheatzx.store">Suddax Cheatzx</a></h3>
+      <p align="center">Gaming tools and resources store.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Gaming-Store-0A0A0C?style=flat-square" alt="Gaming" />
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fsuddaxcheatzx.store&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
+        <a href="https://suddaxcheatzx.store"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://mail.sasatech.online">SasaTech Mail</a></h3>
+      <p align="center">Disposable email — temp inbox in one click, no signup.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Privacy-Temp_Mail-0A0A0C?style=flat-square" alt="Privacy" />
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fmail.sasatech.online&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
+        <a href="https://mail.sasatech.online"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Tech Stack
+<img src="assets/divider.gif" width="100%" alt="divider" />
+
+<img src="assets/header-stack.png" width="100%" alt="Tech Stack" />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,html,css,nodejs,react,next,express,mongodb,mysql,postgres,firebase,git,docker,linux,figma&theme=dark" alt="Tech stack" />
 </div>
 
----
+<img src="assets/divider.gif" width="100%" alt="divider" />
 
-### GitHub Stats
+<img src="assets/header-stats.png" width="100%" alt="GitHub Stats" />
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=darksasa1-eng&show_icons=true&title_color=E0263C&text_color=FFFFFF&icon_color=E0263C&bg_color=0A0A0C&border_color=2A2A30" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksasa1-eng&layout=compact&title_color=E0263C&text_color=FFFFFF&bg_color=0A0A0C&border_color=2A2A30" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darksasa1-eng&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darksasa1-eng&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darksasa1-eng&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darksasa1-eng&theme=github_dark" alt="Most commit language" />
 </div>
 
 <div align="center">
