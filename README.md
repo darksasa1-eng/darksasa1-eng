@@ -1,77 +1,87 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/248960962?s=400" width="180" alt="Sasa Dev Logo"/>
-</p>
+<div align="center">
+  <img src="assets/banner.gif" width="100%" alt="Sasa Dev — animated banner" />
+</div>
 
-<h1 align="center">Sasa Dev <img src="https://em-content.zobj.net/source/apple/391/technologist_1f9d1-200d-1f4bb.png" width="35"/></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.sasatech.online">
-    <img src="https://img.shields.io/badge/Website-https://www.sasatech.online-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E0263C&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;API+%26+Bot+Developer;Graphic+Designer;Cyber+Security+Specialist)](https://git.io/typing-svg)
+
+  <a href="https://sasa-dev.pages.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-sasa--dev.pages.dev-E0263C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-red?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Speciality-Full%20Stack%20Development-red?style=for-the-badge&logo=github"/>
-</p>
-
-<p align="center">
-  <b>Full-Stack Developer</b> | <b>Web & API Development</b> | <b>Software Engineer</b>
-</p>
-
----
-
-## 👋 About Me
-
-Hi there! I'm **Sasa Dev** — a passionate Full-Stack Developer from **Sri Lanka** 🇱🇰. I build modern web applications, powerful APIs, and automation tools. Founder of **Sasa Tech**.
-
-I love turning complex problems into simple, beautiful, and intuitive solutions. My work spans web development, WhatsApp bot development, API design, and movie streaming platforms.
-
----
-
-## 🚀 What I Do
-
-- 🌐 **Web Development** — Building fast, responsive, and beautiful websites and web apps
-- ⚙️ **API Development** — Designing robust and scalable REST APIs
-- 🤖 **Bot Development** — WhatsApp automation bots and AI-powered tools
-- 🎬 **Streaming Platforms** — Movie streaming sites and media tools
-- 🔧 **Automation** — Scripts and systems that save time
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darksasa1-eng&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksasa1-eng&layout=compact&theme=dark&hide_border=true&title_color=ff0000&text_color=ffffff" height="170"/>
-</p>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://www.sasatech.online">
-    <img src="https://img.shields.io/badge/Official_Website-www.sasatech.online-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="mailto:support.sasadev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact_Me-0A0A0C?style=for-the-badge&logo=gmail&logoColor=E0263C" alt="Email" />
   </a>
-</p>
+  <a href="https://wa.me/94784167385">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/sasa_developer">
+    <img src="https://img.shields.io/badge/Telegram-Chat-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
-</p>
+<img align="right" width="270" src="assets/profile.jpg" alt="Sasa Dev" />
 
-<p align="center">Made with ❤️ by <b>Sasa Dev</b> — © 2026 Sasa Tech</p>
+### About Me
+
+Hi, I'm **Sasa Dev** (`darksasa1-eng`) — a self-taught **Full Stack Developer** from **Sri Lanka**, working with clients worldwide. Founder of **SasaTech**.
+
+- Building live platforms: APIs, AI apps, dev tools and automation
+- Specialised in **web apps, REST APIs, WhatsApp/Telegram bots** and **graphic design**
+- Security-first mindset — clean code, hardened deployments
+- Currently open for **freelance projects**
+
+Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
+
+<br clear="right" />
+
+---
+
+### Live Projects
+
+| Project | What it is | Link |
+|---|---|---|
+| **[Sasa Dev API](https://www.sasa-dev-api.xyz)** | Free REST API platform — downloaders, AI endpoints, dev utilities | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sasa-dev-api.xyz) |
+| **[Sasa AI](https://www.sasa-ai.xyz)** | AI chat web app with history and a fast backend API | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sasa-ai.xyz) |
+| **[SasaTech](https://www.sasatech.online)** | Developer tools platform — temp mail, downloaders, utilities | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sasatech.online) |
+| **[Scrapyxiter](https://scrapyxiter.store)** | Data extraction and web automation toolkit | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://scrapyxiter.store) |
+| **[Suddax Cheatzx](https://suddaxcheatzx.store)** | Gaming tools and resources store | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://suddaxcheatzx.store) |
+| **[SasaTech Mail](https://mail.sasatech.online)** | Disposable email — temp inbox in one click, no signup | [![Live](https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white)](https://mail.sasatech.online) |
+
+---
+
+### Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,html,css,nodejs,react,next,express,mongodb,mysql,postgres,firebase,git,docker,linux,figma&theme=dark" alt="Tech stack" />
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=darksasa1-eng&show_icons=true&title_color=E0263C&text_color=FFFFFF&icon_color=E0263C&bg_color=0A0A0C&border_color=2A2A30" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksasa1-eng&layout=compact&title_color=E0263C&text_color=FFFFFF&bg_color=0A0A0C&border_color=2A2A30" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darksasa1-eng&background=0A0A0C&border=2A2A30&stroke=2A2A30&ring=E0263C&fire=E0263C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E0263C&sideLabels=FFFFFF&dates=8B8B95" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="dist/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=darksasa1-eng&style=flat-square&color=E0263C" alt="Profile views" />
+  <br />
+  <b>Let's build something great together.</b>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E0263C&height=100&section=footer" width="100%" alt="Footer wave" />
