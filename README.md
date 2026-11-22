@@ -1,141 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SaSa%20Dev&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security%20%7C%20DevOps&descAlignY=60&descSize=18" width="100%" alt="header" />
-
-<img src="https://raw.githubusercontent.com/darksasa1-eng/darksasa1-eng/main/assets/profile.jpg" width="150" height="150" style="border-radius:50%;" alt="SaSa Dev" />
+<img src="./assets/banner.svg" width="100%" alt="SaSa Dev" />
 
 <br/>
 
 <a href="https://github.com/darksasa1-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;DevOps+Engineer;Graphic+Designer;Web+Scraper+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Building+fast%2C+secure+and+beautiful+software;Full+Stack+Developer;Cyber+Security+Enthusiast;DevOps+Engineer;Graphic+Designer" alt="typing" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=darksasa1-eng&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/darksasa1-eng?label=Followers&style=for-the-badge&color=7c3aed&logo=github" alt="followers" />
-<img src="https://img.shields.io/github/stars/darksasa1-eng?label=Stars&style=for-the-badge&color=7c3aed&logo=github" alt="stars" />
+<img src="https://img.shields.io/github/followers/darksasa1-eng?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0b0b1a&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/darksasa1-eng?label=Stars&style=for-the-badge&color=f472b6&labelColor=0b0b1a&logo=github" alt="stars" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## About Me
+<img src="./assets/header-1.svg" width="100%" alt="About Me" />
 
-I build fast, secure and well designed software, from the interface to the server and everything that keeps it running.
+<table>
+<tr>
+<td width="290" align="center" valign="middle">
+<img src="./assets/avatar.svg" width="260" alt="SaSa Dev" />
+</td>
+<td valign="middle" align="center">
+<img src="./assets/terminal.svg" width="100%" alt="terminal" />
+</td>
+</tr>
+</table>
 
-| Focus | Description |
-| :-- | :-- |
-| Graphic Design | Branding, UI visuals and creative assets |
-| Cyber Security | Security testing, hardening and analysis |
-| DevOps | CI/CD, containers, servers and automation |
-| Web Scraper | Data extraction and automation tools |
-| Full Stack Developer | End to end web applications and APIs |
-| And more | Always learning and building new things |
-
----
-
-## My Projects
+<img src="./assets/header-2.svg" width="100%" alt="Skills" />
 
 <div align="center">
 
-| Project | Link |
+| Field | What I do |
 | :-- | :-- |
-| SaSa Tech Mail | [mail.sasatech.online](https://mail.sasatech.online) |
-| SaSa Dev API | [www.sasa-dev-api.xyz](https://www.sasa-dev-api.xyz) |
-| PornZone | [pornzone.pages.dev](https://pornzone.pages.dev) |
+| **Graphic Design** | Branding, UI visuals and creative assets |
+| **Cyber Security** | Security testing, hardening and analysis |
+| **DevOps** | CI/CD, containers, servers and automation |
+| **Web Scraper** | Data extraction and automation tools |
+| **Full Stack Developer** | End to end web applications and APIs |
+| **More** | Always learning and building new things |
 
 </div>
 
----
-
-## Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,ts,php,go,rust,java,swift,js,bash,py&perline=11" alt="languages" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,redux,vite&perline=11" alt="frontend" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,laravel,graphql&perline=11" alt="backend" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase&perline=11" alt="database" />
-</p>
-
-### Cloud and DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,cloudflare,vercel,aws&perline=11" alt="devops" />
-</p>
-
-### Systems and Security
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,raspberrypi,arduino&perline=11" alt="systems" />
-</p>
-
-### Tools and Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,selenium,regex,md,figma,ps,ai,discord,androidstudio,wordpress&perline=12" alt="tools" />
-</p>
-
----
-
-## GitHub Stats
+<img src="./assets/header-3.svg" width="100%" alt="Projects" />
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=darksasa1-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksasa1-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="top languages" />
+<a href="https://mail.sasatech.online"><img src="./assets/card-mail.svg" width="380" alt="SaSa Tech Mail" /></a>
+<a href="https://www.sasa-dev-api.xyz"><img src="./assets/card-api.svg" width="380" alt="SaSa Dev API" /></a>
+<a href="https://pornzone.pages.dev"><img src="./assets/card-zone.svg" width="380" alt="PornZone" /></a>
+
+</div>
+
+<img src="./assets/header-4.svg" width="100%" alt="Tech Stack" />
+
+<div align="center">
+
+<img src="./assets/marquee.svg" width="100%" alt="tech marquee" />
+
+</div>
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,ts,php,go,rust,java,swift,js,bash,py&perline=11" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,redux,vite&perline=11" alt="frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,laravel,graphql&perline=11" alt="backend" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase&perline=11" alt="database" />
+
+**Cloud and DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,cloudflare,vercel,aws&perline=11" alt="devops" />
+
+**Systems and Security**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,raspberrypi,arduino&perline=11" alt="systems" />
+
+**Tools and Design**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,selenium,regex,md,figma,ps,ai,discord,androidstudio,wordpress&perline=12" alt="tools" />
+
+<img src="./assets/header-5.svg" width="100%" alt="GitHub Stats" />
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=darksasa1-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b1a&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&border_radius=14" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksasa1-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b1a&title_color=22d3ee&text_color=c9d1d9&border_radius=14" alt="top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=darksasa1-eng&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=darksasa1-eng&theme=tokyonight&hide_border=true&background=0b0b1a&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&border_radius=14" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darksasa1-eng&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darksasa1-eng&theme=tokyo-night&hide_border=true&bg_color=0b0b1a&color=22d3ee&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" width="100%" alt="activity graph" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/darksasa1-eng/darksasa1-eng/main/dist/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
 
 </div>
 
----
-
-## Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/darksasa1-eng/darksasa1-eng/main/dist/github-contribution-grid-snake.svg" alt="snake" width="100%" />
-</div>
-
----
-
-## Contact
+<img src="./assets/header-6.svg" width="100%" alt="Contact" />
 
 <div align="center">
 
-<a href="mailto:support.sasadev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-support.sasadev%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://t.me/sasa_developer">
-  <img src="https://img.shields.io/badge/Telegram-sasa__developer-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
-</a>
-<a href="https://github.com/darksasa1-eng">
-  <img src="https://img.shields.io/badge/GitHub-darksasa1--eng-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
+<a href="mailto:support.sasadev@gmail.com"><img src="https://img.shields.io/badge/Email-support.sasadev%40gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b1a" alt="email" /></a>
+<a href="https://t.me/sasa_developer"><img src="https://img.shields.io/badge/Telegram-sasa__developer-a78bfa?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0b1a" alt="telegram" /></a>
+<a href="https://github.com/darksasa1-eng"><img src="https://img.shields.io/badge/GitHub-darksasa1--eng-f472b6?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0b1a" alt="github" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1a,50:302b63,100:0b0b1a&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
