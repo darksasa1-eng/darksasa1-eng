@@ -1,189 +1,141 @@
 <div align="center">
-  <img src="assets/banner.gif" width="100%" alt="Sasa Dev — animated banner" />
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SaSa%20Dev&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security%20%7C%20DevOps&descAlignY=60&descSize=18" width="100%" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E0263C&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;API+%26+Bot+Developer;Graphic+Designer;Cyber+Security+Specialist)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/darksasa1-eng/darksasa1-eng/main/assets/profile.jpg" width="150" height="150" style="border-radius:50%;" alt="SaSa Dev" />
 
-  <a href="https://sasa-dev.pages.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-sasa--dev.pages.dev-E0263C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:support.sasadev@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact_Me-0A0A0C?style=for-the-badge&logo=gmail&logoColor=E0263C" alt="Email" />
-  </a>
-  <a href="https://wa.me/94784167385">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/sasa_developer">
-    <img src="https://img.shields.io/badge/Telegram-Chat-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+<br/>
 
-</div>
+<a href="https://github.com/darksasa1-eng">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;DevOps+Engineer;Graphic+Designer;Web+Scraper+Builder" alt="Typing SVG" />
+</a>
 
-<img src="assets/divider.gif" width="100%" alt="divider" />
+<br/>
 
-<img src="assets/header-about.png" width="100%" alt="About Me" />
+<img src="https://komarev.com/ghpvc/?username=darksasa1-eng&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/darksasa1-eng?label=Followers&style=for-the-badge&color=7c3aed&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/darksasa1-eng?label=Stars&style=for-the-badge&color=7c3aed&logo=github" alt="stars" />
 
-<img align="right" width="270" src="assets/profile.jpg" alt="Sasa Dev" />
-
-Hi, I'm **Sasa Dev** (`darksasa1-eng`) — a self-taught **Full Stack Developer** from **Sri Lanka**, working with clients worldwide. Founder of **SasaTech**.
-
-- Building live platforms: APIs, AI apps, dev tools and automation
-- Specialised in **web apps, REST APIs, WhatsApp/Telegram bots** and **graphic design**
-- Security-first mindset — clean code, hardened deployments
-- Currently open for **freelance projects**
-
-Check out my work: **[sasa-dev.pages.dev](https://sasa-dev.pages.dev)**
-
-<br clear="right" />
-
-<div align="center">
-  <img src="assets/terminal.gif" width="100%" alt="Terminal animation — whoami" />
-</div>
-
-<img src="assets/divider.gif" width="100%" alt="divider" />
-
-<img src="assets/header-projects.png" width="100%" alt="Live Projects" />
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-            <a href="https://www.sasa-dev-api.xyz"><img src="https://image.thum.io/get/width/600/crop/380/https://www.sasa-dev-api.xyz" width="100%" alt="Sasa Dev API live preview" /></a>
-<h3 align="center"><a href="https://www.sasa-dev-api.xyz">Sasa Dev API</a></h3>
-      <p align="center">Free REST API platform — downloaders, AI endpoints, dev utilities.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-API-0A0A0C?style=flat-square" alt="Node.js" />
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.sasa-dev-api.xyz&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
-        <a href="https://www.sasa-dev-api.xyz"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-            <a href="https://www.sasa-ai.xyz"><img src="https://image.thum.io/get/width/600/crop/380/https://www.sasa-ai.xyz" width="100%" alt="Sasa AI live preview" /></a>
-<h3 align="center"><a href="https://www.sasa-ai.xyz">Sasa AI</a></h3>
-      <p align="center">AI chat web app with history and a fast backend API.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI-Chat_App-0A0A0C?style=flat-square" alt="AI" />
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.sasa-ai.xyz&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
-        <a href="https://www.sasa-ai.xyz"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-            <a href="https://www.sasatech.online"><img src="https://image.thum.io/get/width/600/crop/380/https://www.sasatech.online" width="100%" alt="SasaTech live preview" /></a>
-<h3 align="center"><a href="https://www.sasatech.online">SasaTech</a></h3>
-      <p align="center">Developer tools platform — temp mail, downloaders, utilities.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Dev-Tools-0A0A0C?style=flat-square" alt="Tools" />
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.sasatech.online&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
-        <a href="https://www.sasatech.online"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-            <a href="https://scrapyxiter.store"><img src="https://image.thum.io/get/width/600/crop/380/https://scrapyxiter.store" width="100%" alt="Scrapyxiter live preview" /></a>
-<h3 align="center"><a href="https://scrapyxiter.store">Scrapyxiter</a></h3>
-      <p align="center">Data extraction and web automation toolkit.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-Automation-0A0A0C?style=flat-square" alt="Python" />
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fscrapyxiter.store&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
-        <a href="https://scrapyxiter.store"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-            <a href="https://suddaxcheatzx.store"><img src="https://image.thum.io/get/width/600/crop/380/https://suddaxcheatzx.store" width="100%" alt="Suddax Cheatzx live preview" /></a>
-<h3 align="center"><a href="https://suddaxcheatzx.store">Suddax Cheatzx</a></h3>
-      <p align="center">Gaming tools and resources store.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Gaming-Store-0A0A0C?style=flat-square" alt="Gaming" />
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fsuddaxcheatzx.store&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
-        <a href="https://suddaxcheatzx.store"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-            <a href="https://mail.sasatech.online"><img src="https://image.thum.io/get/width/600/crop/380/https://mail.sasatech.online" width="100%" alt="SasaTech Mail live preview" /></a>
-<h3 align="center"><a href="https://mail.sasatech.online">SasaTech Mail</a></h3>
-      <p align="center">Disposable email — temp inbox in one click, no signup.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Privacy-Temp_Mail-0A0A0C?style=flat-square" alt="Privacy" />
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fmail.sasatech.online&label=STATUS&style=flat-square&up_message=ONLINE" alt="Status" />
-        <a href="https://mail.sasatech.online"><img src="https://img.shields.io/badge/LIVE-Visit-E0263C?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/divider.gif" width="100%" alt="divider" />
-
-<img src="assets/header-stack.png" width="100%" alt="Tech Stack" />
-
-<div align="center">
-<p align="center">
-  <b>Languages</b><br />
-  <img src="https://skillicons.dev/icons?i=c,java,py,js,ts,php,go,bash,html,css&theme=dark" alt="Languages" />
-</p>
-
-<p align="center">
-  <b>Frontend</b><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,redux,vite&theme=dark" alt="Frontend" />
-</p>
-
-<p align="center">
-  <b>Backend</b><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,laravel,graphql&theme=dark" alt="Backend" />
-</p>
-
-<p align="center">
-  <b>Databases</b><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase&theme=dark" alt="Databases" />
-</p>
-
-<p align="center">
-  <b>Cloud & DevOps</b><br />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,cloudflare,vercel,netlify,aws&theme=dark" alt="Cloud & DevOps" />
-</p>
-
-<p align="center">
-  <b>Systems & Security</b><br />
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,raspberrypi,arduino&theme=dark" alt="Systems & Security" />
-</p>
-
-<p align="center">
-  <b>Tools & Design</b><br />
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,selenium,regex,md,figma,ps,ai,discord,androidstudio,wordpress&theme=dark" alt="Tools & Design" />
-</p>
-</div>
-
-<img src="assets/divider.gif" width="100%" alt="divider" />
-
-<img src="assets/header-stats.png" width="100%" alt="GitHub Stats" />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darksasa1-eng&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darksasa1-eng&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darksasa1-eng&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darksasa1-eng&theme=github_dark" alt="Most commit language" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darksasa1-eng&background=0A0A0C&border=2A2A30&stroke=2A2A30&ring=E0263C&fire=E0263C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E0263C&sideLabels=FFFFFF&dates=8B8B95" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
 </div>
 
 ---
 
+## About Me
+
+I build fast, secure and well designed software, from the interface to the server and everything that keeps it running.
+
+| Focus | Description |
+| :-- | :-- |
+| Graphic Design | Branding, UI visuals and creative assets |
+| Cyber Security | Security testing, hardening and analysis |
+| DevOps | CI/CD, containers, servers and automation |
+| Web Scraper | Data extraction and automation tools |
+| Full Stack Developer | End to end web applications and APIs |
+| And more | Always learning and building new things |
+
+---
+
+## My Projects
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=darksasa1-eng&style=flat-square&color=E0263C" alt="Profile views" />
-  <br />
-  <b>Let's build something great together.</b>
+
+| Project | Link |
+| :-- | :-- |
+| SaSa Tech Mail | [mail.sasatech.online](https://mail.sasatech.online) |
+| SaSa Dev API | [www.sasa-dev-api.xyz](https://www.sasa-dev-api.xyz) |
+| PornZone | [pornzone.pages.dev](https://pornzone.pages.dev) |
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E0263C&height=100&section=footer" width="100%" alt="Footer wave" />
+---
+
+## Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,ts,php,go,rust,java,swift,js,bash,py&perline=11" alt="languages" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,redux,vite&perline=11" alt="frontend" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,laravel,graphql&perline=11" alt="backend" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase&perline=11" alt="database" />
+</p>
+
+### Cloud and DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,cloudflare,vercel,aws&perline=11" alt="devops" />
+</p>
+
+### Systems and Security
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,raspberrypi,arduino&perline=11" alt="systems" />
+</p>
+
+### Tools and Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,selenium,regex,md,figma,ps,ai,discord,androidstudio,wordpress&perline=12" alt="tools" />
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=darksasa1-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksasa1-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=darksasa1-eng&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darksasa1-eng&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff" width="100%" alt="activity graph" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/darksasa1-eng/darksasa1-eng/main/dist/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:support.sasadev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-support.sasadev%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://t.me/sasa_developer">
+  <img src="https://img.shields.io/badge/Telegram-sasa__developer-7c3aed?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+</a>
+<a href="https://github.com/darksasa1-eng">
+  <img src="https://img.shields.io/badge/GitHub-darksasa1--eng-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
